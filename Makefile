@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wextra -O2
-SRCS = process_patch_attack.c
+SRCS = process_attacker.c
 OBJS = $(SRCS:.c=.o)
 BIN = process_attacker
 
