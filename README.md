@@ -19,9 +19,9 @@ _Capable of modifying the victim program registers' data_
 victim program to it's own life!
 
 # Compilation
-Please try to use "gcc" or you can try clang.
+Please make sure to have "gcc" installed.
       
-      gcc -o process_attacker process_attacker.c
+      make
 
 # USAGE
 WOW! it's very SIMPLE!
