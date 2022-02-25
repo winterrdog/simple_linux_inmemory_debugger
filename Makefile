@@ -16,6 +16,6 @@ $(OBJS): $(SRCS)
 $(BIN): $(OBJS)
 	@$(CC) $(CFLAGS) -o $@ $^
 
-# clean up any hanging and scattered object files
+# clean up any hanging and scattered object and executable files
 clean:
 	@$(RM) $(OBJS) $(BIN)
