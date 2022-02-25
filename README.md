@@ -30,6 +30,7 @@ WOW! it's very SIMPLE!
 
 # NOTE
 - Make sure you are ROOT! 
+- Assembly( x86_64 or 64-bit ) was written in Intel syntax with the goal of using it with the nasm assembler.
 
 - There many sites on the internet that can teach you on how to extract shellcode from your target programs( they're many ways trust me ). To do this manually, try reading from this gorgeous site, http://security.cs.pub.ro/hexcellents/wiki/kb/exploiting/shellcode-walkthrough#getting-a-binary-and-byte-string-shellcode. But if you hate that stress, try Neetx's tool, https://github.com/Neetx/Shellcode-Extractor
 
