@@ -19,7 +19,7 @@ _Capable of modifying the victim program registers' data_
 victim program to it's own life!
 
 # Compilation
-Please make sure to have "gcc" and "make" installed( Installed by default on most GNU/Linux systems ).
+Please make sure to have "gcc" and "make" installed( _Installed by default on most GNU/Linux systems_ ).
       
       make
 
