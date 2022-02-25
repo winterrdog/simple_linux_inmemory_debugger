@@ -2,7 +2,7 @@ global _start
 
 _start:
     ; save the previous register content on the stack to 
-    ; prevent inconsistency across func calls
+    ; prevent inconsistency across function calls
     push rdi
     push rsi
     push rdx
